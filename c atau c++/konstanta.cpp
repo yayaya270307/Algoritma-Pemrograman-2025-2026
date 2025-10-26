@@ -8,7 +8,7 @@ main()
     const double PI = 3.14; 
     const int NILAI_MAX = 100; 
     const char MyChar = 'A'; 
-    const string MyName = "Muhammad Encep"; 
+    const string MyName = "Lia Nur Alawiah Wahdah"; 
 
     cout << "---BELAJAR KONSTANTA---" << endl; 
     cout << "Konstanta PI : " << PI << endl; 
