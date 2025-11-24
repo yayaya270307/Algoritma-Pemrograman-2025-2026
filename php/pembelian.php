@@ -6,7 +6,7 @@ $jumlah = intval(readline("Masukkan Jumlah Barang: "));
 
 $total = $harga * $jumlah;
 
-if ($total > 200000) {
+if ($total > 19200) {
     $diskon = $total * 0.02;
 } else {
     $diskon = 0;
