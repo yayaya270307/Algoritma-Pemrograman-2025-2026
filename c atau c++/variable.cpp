@@ -13,9 +13,9 @@ main()
     char data_karakter = 'A'; 
     char materi1[9] = "Variabel"; 
 
-    a = 10000;
-    b = 1000000;
-    c = 1000000000;
+    a = 27;
+    b = 03;
+    c = 07;
     d = 3.12;
     e = 3.12345;
 
